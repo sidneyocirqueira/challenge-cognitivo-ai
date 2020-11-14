@@ -10,7 +10,7 @@ Nesse repositório apresento a resolução do challenge de engenharia de dados q
 Conhecimento basico em Azure, Big Data,Data Lake, Databricks e Spark.
 
 * [Conta Microsoft Azure](https://azure.microsoft.com/en-us/free/); 
-* [Dataset de usuários]();
+* [Dataset de usuários](https://github.com/sidneyocirqueira/challenge-cognitivo-ai/tree/main/data/input/users);
 * [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/);
 * [Storage Account](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview); 
 * [PySpark](https://databricks.com/glossary/pyspark);
