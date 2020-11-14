@@ -44,6 +44,7 @@ convertendo os dataframes para o apache parquet  obtemos algumas vantagens:
 ## Conversão, deduplicação dos dados convertivos e exportação dataset final 
 
 * [Notebook](https://github.com/sidneyocirqueira/challenge-cognitivo-ai/tree/main/notebooks)
+* [Output](https://github.com/sidneyocirqueira/challenge-cognitivo-ai/tree/main/data/output/load.parquet)
 
 ## Notas Gerais 
 
