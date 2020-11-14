@@ -18,6 +18,8 @@ Conhecimento basico em Azure, Big Data,Data Lake, Databricks e Spark.
 ## Etapas:
 
 # Conversão de dados
+* [Notebook](https://github.com/sidneyocirqueira/challenge-cognitivo-ai/tree/main/notebooks)
+
 Recebendo os dados da aplicação ou de qualquer outra fonte de dados e
 convertendo para o tipo de arquivo mais otimizado para se trabalhar com Spark
 o apache parquet é um tipo de arquivo colunar que acelera e otimiza varios formatos de arquivos,
@@ -39,9 +41,9 @@ convertendo os dataframes para o apache parquet  obtemos algumas vantagens:
 **4** - menos overhead de I/O  
 **5** - aumento na velocidade de scan  
 
-## Conversão e deduplicação dos dados convertivos 
+## Conversão, deduplicação dos dados convertivos e exportação dataset final 
 
-* [PySpark](https://databricks.com/glossary/pyspark);
+* [Notebook](https://github.com/sidneyocirqueira/challenge-cognitivo-ai/tree/main/notebooks)
 
 ## Notas Gerais 
 
