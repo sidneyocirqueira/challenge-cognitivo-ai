@@ -1,6 +1,6 @@
 # challenge-cognitivo-ai
 
-Nesse repositório apresento a resolução do challenge de engenharia de dados que tem como objetivo realizar a leitura de um arquivo no formato csv, converter para um formato colunar otimizado para big data, além de realizar uma etapa de definição de tipos de dados e exportação de um dataset final conforme solicitado no arquivo requirements.
+Nesse repositório apresento a resolução do challenge de engenharia de dados que tem como objetivo realizar a leitura de um arquivo no formato csv, converter para um formato colunar otimizado para big data, além de realizar uma etapa de definição de tipos de dados e exportação de um dataset final conforme solicitado no arquivo [requirements](https://github.com/sidneyocirqueira/challenge-cognitivo-ai/tree/main/requirements).
 
 
 ## Integrantes
